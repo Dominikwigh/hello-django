@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-u+%1i=tg(^0ih#d_2h_3$3dbcnxkgbujs14+sh6vnvz+s6s9ma
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://git.heroku.com/dominik-django.git']
 
 
 # Application definition
